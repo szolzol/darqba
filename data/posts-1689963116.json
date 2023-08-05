@@ -1,0 +1,481 @@
+{
+    "meta": {
+        "format": "JSON",
+        "version": "1.1.0",
+        "projectId": "darqba-b5273",
+        "resourcePath": [
+            "posts"
+        ],
+        "recursive": false,
+        "creationTime": 1690017960,
+        "app": "firefoo"
+    },
+    "data": {
+        "5f63d9941253930a84fa8597": {
+            "answer": "A történet főszereplője lefekvés előtt a telefonján állított be magának ébresztőt, majd a lemerülő félben lévő készüléket a töltőre dugta. Az áramszünet miatt azonban a teljesen lemerült mobil nem keltette fel, így lekéste a repülőgépét, amelyre jegye volt. A szóban forgó járat az egyik 2001. szeptember 11-i eltérített gép volt, így hatalmas szerencsével elkerülte a halált. Az eset megtörtént Seth Macfarlane-nel, a Family Guy c. sorozat későbbi megalkotójával.",
+            "body": "Ha nem lett volna az áramszünet, az lett volna az utolsó éjszakája. ",
+            "creatorId": "admin",
+            "picturelist": "1_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-regular fa-lightbulb",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Áramszünet",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa8598": {
+            "answer": "A történet főszereplője egy orvos, aki egész élete során csúnyán írt. Amikor az általa megírt recepten a gyógyszerész félreolvasta az előírt dózist, a beteg belehalt a gyógyszertúladagolásba. Kutatások szerint már több ezer hasonló szerencsétlen eset történt meg világszerte.",
+            "body": "Amiért már az iskolában is sokat piszkálták, az végül egy ember életébe került.",
+            "creatorId": "admin",
+            "picturelist": "2_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-chalkboard-user",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Javíthatatlan diák",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa8599": {
+            "answer": "Endre és Klára egy nemrég gyilkosság áldozatául esett fiú szülei, akik a boncolási eredményeket hallgatták az orvosnál. A vizsgálatok során kiderült, hogy a fiúknak gyógyíthatatlan agytumora volt, így a gyilkos hosszú szenvedéstől kímélte meg a gyermeket.",
+            "body": "Dr. Kovács rendelőjében aznap Endre és Klára voltak a leghálásabbak.",
+            "creatorId": "admin",
+            "picturelist": "3_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-user-doctor",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Köszönjük, doktor!",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa859a": {
+            "answer": "Két egymást eredetileg nem ismerő ember karambolozott. Rendőrt hívtak, az igazoltatásnál pedig hamar kiderült, hogy az anyjuk neve megegyezik. Rövid beszélgetés után nyilvánvalóvá vált, hogy ugyanarról a nőről van szó. Az anyjuk ezután bevallotta, hogy kettős életet élt, így aznap mindketten \"gazdagabbak\" lettek egy testvérrel, akinek korábban még csak a létezéséről sem tudtak.",
+            "body": "A két testvér nem bánta, hogy aznap késve értek haza.",
+            "creatorId": "admin",
+            "picturelist": "4_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-moon",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Sorsfordító éjszaka",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa859b": {
+            "answer": "A történetben valóban egy gyerekről van szó, bár áldozatai nem emberek, hanem hangyák voltak. A rosszcsont fiú kíváncsiságból felgyújtott egy hangyabolyt, melynek több ezer lakója percek alatt a lángok martalékává vált. ",
+            "body": "Még tíz éves sem volt, és máris több ezer ártatlan haláláért volt felelős.",
+            "creatorId": "admin",
+            "picturelist": "5_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-child",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Fiatal gyilkos",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa859c": {
+            "answer": "A fiatal pár egy óceánjárón utazott, amikor a hajó éttermében csúnyán összevesztek. Az elhagyott férfi bánatában az étteremben leitta magát, a nő pedig a szobájába sietett és magára zárta az ajtót, hogy a férfi ne tudjon utánamenni. A hajó később jéghegynek ütközött és elsüllyedt. A fedélzethez közeli utasokat ki tudták menteni, azonban a kabinokban maradt utasok nagyrésze - köztük a történet főszereplőnője - nem jutott ki a süllyedő hajóból a mentőcsónakra és a fagyos vízben lelte halálát.",
+            "body": "Az egész étterem fültanúja volt a fiatal pár veszekedésének, ami bár szakítással végződött, de így legalább a férfi megélhette a másnap reggelt.",
+            "creatorId": "admin",
+            "picturelist": "6_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-person-half-dress",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Szerencsés szakítás",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa859d": {
+            "answer": "A végzetes napon egy apa tanította síelni a gyerekét, úgy, hogy egy rugalmas gumikötél akadályozta meg, hogy eltávolodjanak egymástól. A \"pórázt\" akkor se oldotta le, amikor egymás után felszálltak a tányéros felvonóra. A hátul jövő gyermek leesett, elkezdett lefelé csúszni, a kötél pedig olyan szerencsétlenül tekeredett az apa nyakára, hogy azon nyomban megfojtotta. A brutális haláleset miatt a sípályát természetesen azonnal le kellett zárni. ",
+            "body": "A sípályát fennállása során először kellett bezárni fulladásos halál miatt.",
+            "creatorId": "admin",
+            "picturelist": "7_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-mountain",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Alpesi tragédia",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa859e": {
+            "answer": "Egy színházban történt meg eset, ahol az aktuális darab szerves része egy pisztolylövés általi gyilkosság. A kellékfegyvert azonban valaki egy ugyanúgy kinéző igazira cserélte, így a mit sem sejtő főszereplő ténylegesen megöli színésztársát. A felelősség így azonban nem a ravasz meghúzóját, hanem a fegyvert kicserélő személyt terheli.",
+            "body": "Rengeteg szemtanúja volt a gyilkosságnak, az elkövetőt mégsem ítélték el.",
+            "creatorId": "admin",
+            "picturelist": "8_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-regular fa-eye",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Mindenki szeme láttára",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa859f": {
+            "answer": "Az áldozat egy extrém helyszíneket kereső bungee jumpingos volt. Társaival egy szakadék fölött átívelő vasúti hidat néztek ki maguknak, óriásit hibáztak azonban, amikor legstabilabb pontként a vasúti sínekhez rögzítették a kötelet. A vonat jött, elvágta a kötelet, az áldozat pedig a mélybe zuhant. Megtörtént eset.",
+            "body": "A sebes patak partján egy holttest és egy kötél hevert.",
+            "creatorId": "admin",
+            "picturelist": "9_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-water",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Halál a pataknál",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85a0": {
+            "answer": "A tévében épp a friss lottószámokat mutatták, a nő pedig egyből felismerte volt férje állandó számait, amelyek több milliárd forintot értek. Mivel nemrég írták alá a válási papírokat, neki ebből már egy vas se járt. Az az ötlete támadt, hogy álnéven felhívja a helyi kábeltévé társaságot, ahol a férje dolgozott és egy távoli címre kirendeli az épp ügyeletben lévő férfit egy sürgős javításra, miközben ő a lakásáról ellopja a nyertes lottószelvényt.",
+            "body": "Mikor a nő bekapcsolta a tévét, rájött, hogy nagy hibát követett el és azonnal felhívta a helyi kábeltévé társaságot.",
+            "creatorId": "admin",
+            "picturelist": "10_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-tv",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Végzetes baklövés",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85a1": {
+            "answer": "A helyszínelés során kiderült, hogy a halott férfi egy bérgyilkos. Ágya alatt pedig nem a gyilkos fegyver, hanem a saját pisztolya volt. Nemrég megbízást kapott egy személy likvidálására, amelyet el is végzett, egy bőröndben át is vette a busás jutalmat. Csakhogy a célszemélynek volt egy ikertestvére, akibe a megbízója röviddel ezután belebotlott az utcán. Joggal feltételezte, hogy a bérgyilkos csúnyán átverte, így bosszút állt rajta: meggyilkoltatta, a pénzt pedig visszavette.",
+            "body": "A hotelszobában egy halott férfi fekszik. Mellette egy üres börönd, az ágy alatt pedig egy pisztoly van.",
+            "creatorId": "admin",
+            "picturelist": "11_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-suitcase -rolling",
+            "tags": [
+                "fekete"
+            ],
+            "title": "A 237-es szoba titka",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85a2": {
+            "answer": "A nőnek aznap lett volna az esküvője. A készülődés közben a leendő apósa hívta a rossz hírrel: a vőlegényt őrizetbe vette a rendőrség mivel az előző nap tartott legénybúcsú után holtan találták a prosituáltat, akivel együtt töltötte az éjszakát. Minderről természetesen a menyasszony mit sem sejtett, ezek után pedig egyértelművé vált, hogy az esküvő elmarad, így a ruhájára sem lesz szüksége.",
+            "body": "Miután letette a telefont, a nő sírásban tört ki és elkezdte levenni a ruháját. ",
+            "creatorId": "admin",
+            "picturelist": "12_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-phone",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Sokkoló telefonhívás",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85a3": {
+            "answer": "Az eset nem egy emberrel, hanem egy szerencsétlen rovarral történt meg egy esőerdőben. A Vénusz légycsapója nevű húsvő növény illata magához vonzotta, csapdába ejtette és fokozatosan összeroppantotta a kis állat testét, akinek esélye sem volt a menekülésre.",
+            "body": "Szép napsütéses napnak indult, aztán az áldozat a testén szorítást érzett, közben a sötétség elnyelte és ezzel biztossá vált szörnyű halála.",
+            "creatorId": "admin",
+            "picturelist": "13_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-skull-crossbones",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Halálos szorítás",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85a4": {
+            "answer": "Az áldozat egy éjszaka vezető sofőr volt, aki - mint oly sokszor - GPS-ére támaszkodott útja során. Egy ködös estén egy ismeretlen vidéken járva a régen frissített eszköz egy hídon keresztül navigálta volna, ám a valóságban ott csak egy kompátkelő volt. A szerencsétlen férfi mire észrevette a bajt, már késő volt, hogy elkerülje a síkos mólón a vízbe csúszást.",
+            "body": "A férfi megszokta, hogy megbízható társ segíti a munkáját, azonban egy sötét éjszakán csak magára számíthatott, ami a vesztét okozta.",
+            "creatorId": "admin",
+            "picturelist": "14_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-cloud-moon",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Cserbenhagyás",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85a5": {
+            "answer": "Az ügyvéd védencének nejével pisztolylövés végzett a saját lakásában, mellette ott volt a gyilkos fegyver is. Az addigi vizsgálatok idegenkezűségre utaltak és a férj lett az elsőszámú gyanúsított. Az ügyvéd, hogy bebizonyítsa, véletlen balesetből is elsülhetett a fegyver, rekonstruálta az eseményeket a tárgyalóteremben, ami annyira jól sikerült, hogy a megtöltött pisztoly eldördült és végzett vele. Ezek után viszont a bíróság felmentette a gyanúsított férjet bizonyíthatóság hiányában.",
+            "body": "Az ügyvéd túl nagy árat fizetett élete utolsó perének megnyeréséért. ",
+            "creatorId": "admin",
+            "picturelist": "15_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-gavel",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Drága védelem",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85a6": {
+            "answer": "Egy hajléktalan férfi az utóbbi időben kevés pénzt tudott összegyűjteni, ezért úgy döntött, vaknak tettetti magát, hátha akkor több aprót szórnak a poharába. A hitelesség kedvéért sötét szemüveget húzott és csukott szemmel járt, hogy botorkálása valósághű legyen. Csakhogy így az útjába kerülő nyitott csatornafedelet sem vette észre, belezuhant, és rögtön szörnyethalt. A rendőrség később csak a megtalált poharáról vett ujjlenyomat alapján tudta azonosítani.",
+            "body": "A férfi túlságosan jól játszotta a szerepét: a rendőrség csak a poharán talált ujjlenyomat alapján tudta azonosítani.",
+            "creatorId": "admin",
+            "picturelist": "16_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-glass-water-droplet",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Eltúlzott alakítás",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85a7": {
+            "answer": "A megtalált holttest egy régi gyilkosság áldozata. Annak idején három rabló ásott alagutat egy bank széfjéhez egy városi temetőn keresztül. Mikor egyikük az utolsó zsák pénzzel tartott kifelé, a zsákmány nagy részével már kint várakozó társai rárobbantották az alagutat, hogy ne kelljen vele osztozni. A férfi megfulladt, a föld alatt lelve halálát. A sírásó ennek a néhai rablónak a hulláját találta meg az üresnek hitt parcellán.",
+            "body": "A sírásó legnagyobb megdöbbenésére már talál egy holttestet azon a helyen, ahol a temető legújabb gödrét ássa.",
+            "creatorId": "admin",
+            "picturelist": "17_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-person-arrow-down-to-line",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Haláli meglepetés",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85a8": {
+            "answer": "Egy pszichiáter a feleségét akarta eltenni láb alól. Tervének véghezviteléhez páciensét egy kezelés során úgy hipnotizálta, hogy ha meghallja a \"Las Vegas\" szót, engedelmeskedjen neki mindenben. Néhány nap múlva a pszichiáter egy zsúfolt bárban felhívta telefonon a betegét és kimondta a bűvös szót. Az ennek hatására hipnotikus állapotba került férfit így gond nélkül rávette, hogy menjen el a házához és ölje meg a feleségét. A zavarodott \"gyilkost\" még a helyszínen elkapták és őrizetbe vették.",
+            "body": "Mikor a férfi a héten másodjára hallott Las Vegasról, az éjszakát már a börtönben töltötte.",
+            "creatorId": "admin",
+            "picturelist": "18_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-sack-dollar",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Bűnös város",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85a9": {
+            "answer": "A családfőt nem az otthonában érte a baleset, mi több, még csak nem is egy feldíszített fenyő zuhant rá. A férfi motorjával épp hazafelé tartott, mikor az előtte haladó teherautóról, a hibás rögzítés miatt, leestek azok a fenyők, amelyek úton voltak egy karácsonyfa árushoz. A motoros annyira szorosan haladt a platós jármű mögött, hogy esélye sem volt kikerülni a fákat, az egyik ráadásul egyenesen rázuhant, lelökte a motorról, az esésnél szerzett súlyos sérüléseibe pedig belehalt.",
+            "body": "A család többé nem gondolt örömmel a szeretet ünnepére, az apa ugyanis a karácsonyfa alatt lelte halálát.",
+            "creatorId": "admin",
+            "picturelist": "19_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-holly-berry",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Tragikus ünnep",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85aa": {
+            "answer": "Egy négyfős baráti társaság csónakázni indult a közeli bányatóra. Egyiküknek az az ötlete támadt, hogy egy selfie formájában is meg kellene örökíteni ezt a pillanatot. Mikor a csapat a fotó kedvéért szorosan egymás mellé, a csónak egyik felébe zsúfolódott, a kis ladik megbillent, majd fel is borult. A fiatalok egytől-egyig a vízbe estek, ahonnan hármuknak sikerült visszakecmeregni a fejjel lefelé álló csónakhoz, ám az úszni egyáltalán nem tudó negyedik társukat örökre elnyelte a tó. ",
+            "body": "Amikor megnyomták a gombot, még nem sejtették, hogy négyük közül egyiküket sosem látják viszont.",
+            "creatorId": "admin",
+            "picturelist": "20_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-regular fa-circle-dot",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Az utolsó találkozás",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85ab": {
+            "answer": "A történetben szereplő nő egy ideje tudta, hogy a férje megcsalja, ám egész eddig a szomszédjukban lakó nőre gyanakodott. Mi több, már elő is készítette kegyetlen bosszúját: egy szelet mérgezett süteményt vitt az asszonynak ajándékba. A férje lelepleződésekor viszont rádöbbent, hogy rossz embert gyanúsított, ezért akár betörés árán is vissza kellett szereznie az ételt, mielőtt az ártatlan hölgy megeszi. Mint kiderült, már késő volt, a házban a mérgezésbe belehalt nő holtteste fogadta.",
+            "body": "A féltékeny nő meglátta a férjét annak szeretőjével, így rögtön tudta, hogy azonnal be kell törnie a szomszédjukhoz.",
+            "creatorId": "admin",
+            "picturelist": "21_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-regular fa-face-kiss-wink-heart",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Megdöbbentő leleplezés",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85ac": {
+            "answer": "A valós eseményeken alapuló sztoriban egy hentes tette el láb alól a feleségét. A gyilkosság után az a hátborzongató ötlete támadt, hogy a holttestet \"feldolgozza\" és állati húshoz keverve eladja az üzletében. A helyiek így tudtukon kívül \"eltüntették\" a bizonyítékot, amiért ráadásul még fizettek is. A boltba betérők a férfi véres köténye miatt sem fogtak gyanút, hiszen a hentesüzletben ez mindennapos látvány. Hasonló vérfagyasztó eset játszódott le néhány éve egy Győr közeli településen.",
+            "body": "A gyilkos még le sem vette véres ruháit, mire a környékbeliek segítségével jó pénzért megszabadult a holttesttől.",
+            "creatorId": "admin",
+            "picturelist": "22_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-skull",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Drágán add a halálod!",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85ad": {
+            "answer": "A dúsgazdag férfit luxusvillájának szaunájában érte a halál, amit ezúttal is, mint mindig, teljesen csupaszon használt. Gyilkosa a szaunaolajba kevert egy igen erős, belélegezve másodpercek alatt halált okozó mérget. Miután az áldozat a szaunakanállal egy adag folyadékot öntött az izzó kövekre, szinte azonnal holtan esett össze.",
+            "body": "A milliárdos férfi holttestét a földön fekve, meztelenül találták. A kezében egy kanalat szorongatott.",
+            "creatorId": "admin",
+            "picturelist": "23_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-spoon",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Egy utolsó kanállal",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85ae": {
+            "answer": "Főszereplőnknek közvetlenül a pálya mellé szóló állójegye volt egy autóversenyre, ám az esemény napján erős lábfájás kínozta, így képtelen lett volna végigállni a viadalt. Egy másik rajongó örömmel ajánlotta fel neki saját, távoli ülőhelyre szóló belépőjét, az ajánlatot pedig 1000 dollárral megfejelte, hogy lecsaphasson a legjobb helyre. A versenyen hatalmas baleset történt, az egyik kocsi a nézők közé repült, éppen ott, ahová az eredeti jegy szólt, és az ott állók mindegyike szörnyethalt.",
+            "body": "A férfi a fájós lába miatt élete alkuját kötötte: nem csak 1000 dollárral lett gazdagabb, de a halált is elkerülte.",
+            "creatorId": "admin",
+            "picturelist": "24_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-shoe-prints",
+            "tags": [
+                "fekete"
+            ],
+            "title": "A legjobb üzlet",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85af": {
+            "answer": "A hölgy egy korai, kezdetleges gyógyszerkísérletben vett részt. Az első adagok bevétele után jelentős javulásról számolt be a kutatóknak, akik a gyors sikeren felbuzdulva rögtön piacra dobták a készítményt. Később kiderült, a nőnél valójában csak placebohatás léphetett fel, azaz valószínűleg a kezelésbe vetett hit miatt érezte jobban magát. A túl rövid tesztelési időszak miatt ráadásul nem derültek ki a szer súlyos mellékhatásai, amibe végül több beteg, köztük főszereplőnk is, belehalt.",
+            "body": "A lány biztos volt benne, hogy sokkal jobban érzi magát. Nem tudta, hogy ezzel hamarosan sokak halálát okozza.",
+            "creatorId": "admin",
+            "picturelist": "25_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-user-doctor",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Végzetes érzések",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85b0": {
+            "answer": "A történet a Ford autógyár 1977-es botrányáról szól. Akkortájt egy üzemanyagtartály-hiba miatt a cég Pinto típusú autói közül rengeteg gyulladt ki és égett porig baleseteknél. A Fordnál rájöttek a problémára és készültek is számítások arról, mennyibe kerülne az összes érintett autót visszahívni és kijavítani. Alapos elemzések azonban rávilágítottak, hogy a gyár anyagilag jobban jár, ha a visszahívás helyett a tűzesetek miatti kártérítéseket fizeti ki. ",
+            "body": "Egy gyilkos képlet miatt több tucatnyian égtek halálra.",
+            "creatorId": "admin",
+            "picturelist": "26_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-square-root-variable",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Gyilkos képlet",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85b1": {
+            "answer": "Egy hólepte kisvárosban egy férfi régi haragosát lőtte le az éj leple alatt, ám a helyszínről távozva rendőrökre lett figyelmes. Nem kockáztathatta, hogy egy rutinszerű igazoltatás során megtalálják nála a fegyvert, így azt gondosan a hóba rejtette. A meteorológusok még napokig hideg időt jósoltak, így azt gondolta, másnap visszajöhet eltüntetni a bizonyítékot. Csakhogy reggel váratlan melegfront jött, a hótakaró teljesen elolvadt, a pisztoly pedig immár mindenki szeme láttára a füvön hevert.",
+            "body": "A gyilkos számításait az időjárásváltozás húzta keresztbe.",
+            "creatorId": "admin",
+            "picturelist": "27_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-snowman",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Közbeszól a front",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85b2": {
+            "answer": "A hűtlen feleség egyik este hidegvérrel rálőtt a karosszékben alvó dúsgazdag férjére. Bár megpróbálta az egészet betörésnek álcázni, a hatóságok hamar rájöttek, hogy ő a valódi tettes. Az egyszerűnek tűnő ügyben a boncolási jegyzőkönyv hozott fordulatot: a vizsgálat megállapította, hogy a férfit szívroham vitte el, így mikor a felesége meglőtte, már biztosan halott volt. A hölgyet ezek után sem gyilkosságért, de még gyilkossági kísérletért sem lehetett elítélni, így az örökségétől sem esett el. ",
+            "body": "A vádlott már börtönéveire készült, de a nap végére mégis a világkörüli útját tervezgethette szeretőjével.",
+            "creatorId": "admin",
+            "picturelist": "28_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-earth-europe",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Váratlan fordulat",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85b3": {
+            "answer": "A hölgy épp egy műtét előtt állt, a visszaszámlálásra az altatóorvos kérte, a nyolcas szám kimondása után pedig már el is aludt. Az operáció során a torkában talált daganatot távolították el, ám a beavatkozás közben megsérültek a hangszálai, így többé képtelen volt beszélni - így tehát valóban a kimondott számok lettek az utolsó szavai. A műtét ezt leszámítva sikeres volt, a nőnél nem jelentkezett többé súlyos betegség, így évtizedekkel később, idős korában, természetes halállal hunyt el. ",
+            "body": "\"Tíz, kilenc, nyolc...\" - ezek voltak a nő utolsó szavai.",
+            "creatorId": "admin",
+            "picturelist": "29_inv.png",
+            "postDate": {
+                "__time__": "2020-07-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-book-skull",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Visszaszámlálás",
+            "__collections__": {}
+        },
+        "5f63d9941253930a84fa85b4": {
+            "answer": "A történet a mintegy száz évvel ezelőtt élt Isadora Duncan különös haláláról szól. A modern táncművészet alapítójának tartott hölgynek mindig számítania kellett arra, hogy fotósok leselkednek rá, így állandóan viselte a védjegyévé vált hosszú sálakat, hisz nem kockáztathatta, hogy anélkül szerepeljen a képeken. Így tett akkor is, amikor egy vadiúj, kabrió sportkocsiban utazott. A sál a menetszélben beleakadt az autó hátsó kerekébe, azonnal megfojtva viselőjét. ",
+            "body": "A híres táncosnő a lehető legsikkesebben akart a fotósok elé lépni, amiért az életével fizetett..",
+            "creatorId": "admin",
+            "picturelist": "30_inv.png",
+            "postDate": {
+                "__time__": "2020-08-21T18:04:49.000Z"
+            },
+            "storyIcon": "fa-solid fa-skull-crossbones",
+            "tags": [
+                "fekete"
+            ],
+            "title": "Divatos halál",
+            "__collections__": {}
+        },
+        "bK58IaJnF2l42kZJk4n6": {
+            "answer": "A férfi egy bányában dolgozott, ahol az egyik járat beomlott, elzárva őt a külvilágtól. A mentőcsapatok nem tudtak időben eljutni hozzá, így elfogyott az oxigénje és megfulladt. Addigra természetesen már ezzel a történettel volt tele a média. Ironikus módon a szerencsétlenség már a felszínhez közel történt, ahol egy modern kórház is volt éppen a bányabalesetek miatt.",
+            "body": "A férfi alig néhány száz méterre egy jól felszerelt kórháztól feküdt holtan. Egy ideje már az egész világ tudta, hogy haldoklik, mégsem volt esély megmenteni.",
+            "creatorId": "user",
+            "picturelist": "",
+            "postDate": {
+                "__time__": "2020-10-02T16:58:20.527Z"
+            },
+            "storyIcon": "fa-solid fa-hospital",
+            "tags": [
+                "fekete",
+                "bzs"
+            ],
+            "title": "Közel a segítség?",
+            "__collections__": {}
+        }
+    }
+}
