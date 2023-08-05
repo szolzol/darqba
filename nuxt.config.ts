@@ -1,7 +1,10 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@nuxtjs/tailwindcss'],
+  modules: ['@nuxthq/ui'],
+  // colorMode: {
+  //   classSuffix: ''
+  // },
   tailwindcss: {
     // Options
   },
@@ -22,5 +25,6 @@ export default defineNuxtConfig({
       link: [{ rel: 'icon', type: 'image/png', href: '/favicon.png' }]
 
     }
-  }
+  },
+
 })
