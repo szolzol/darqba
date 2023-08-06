@@ -4,5 +4,6 @@
 
 @font-face {
     font-family: 'Tourney';
+    font-display: block;
     src: url('../fonts/Tourney.ttf');
 }
