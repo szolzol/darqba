@@ -1,18 +1,29 @@
 <template>
-  <div class="p-10">
+  <div class="">
     <div class="errortext" v-if="error">{{ error }}</div>
-    <div v-if="post" class="post">
-      <h1>{{ post.title }}</h1>
+    <div
+      v-if="post"
+      class="mx-auto md:max-w-3xl lg:max-w-3xl grid grow-0 grid-cols-1 justify-items-left p-4">
+      <h1
+        class="my-4 whitespace-normal font-primary font-black text-2xl tracking-tight text-red-800 dark:text-red-800">
+        {{ post.title }}
+      </h1>
       <!-- <div class="storyIcon">
         <font-awesome-icon :icon="post.storyIcon" size="6x" />
       </div> -->
-      <p class="pre">{{ post.body }}</p>
-      <p class="answer">{{ post.answer }}</p>
+      <p class="my-4">{{ post.body }}</p>
+      <p class="my-4 text-justify font-semibold">{{ post.answer }}</p>
       <!-- <button @click="handleClick" class="delete">Feladvány törlése</button> -->
-    </div>
-    <!-- <div v-else>
+
+      <!-- <div v-else>
       <Spinner />
     </div> -->
+      <NuxtLink class="my-4" to="/posts"
+        ><UButton class="font-extrabold" color="black" variant="solid" size="xl"
+          >Megfejtettük!</UButton
+        ></NuxtLink
+      >
+    </div>
   </div>
 </template>
 

@@ -6,15 +6,16 @@
       {{ post.title }}
     </h5>
     <p class="mb-3 text-black dark:text-black">{{ snippet }}</p>
-    <div class="absolute bottom-3 text-red-800 hover:text-red-600">
-      <NuxtLink class="text-red-800" :to="`/posts/${post.id}`">
+    <NuxtLink :to="`/posts/${post.id}`">
+      <div
+        class="absolute bottom-3 w-10/12 ml-1 rounded-lg text-red-800 hover:text-red-600 hover:bg-red-200 border-4 border-red-800">
         <Icon
           name="fa6-solid:skull"
-          class="font-primary font-black mb-2 text-4xl tracking-tight text-red-800 hover:text-red-600 dark:text-red-800" />
+          class="font-primary font-black mb-2 text-4xl tracking-tight mx-4 mt-2" />
 
-        Megfejtjük...
-      </NuxtLink>
-    </div>
+        Megoldás
+      </div>
+    </NuxtLink>
   </div>
 </template>
 
