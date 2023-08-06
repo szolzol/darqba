@@ -1,10 +1,11 @@
 <template>
   <div class="p-4">
-    <div class="text-center pb-10 pt-5 md:max-w-xl md:mx-auto">
-      <h3 class="text-3xl mb-3 mt-2 font-semibold tracking-normal">
+    <div
+      class="mx-auto text-center pb-10 pt-5 sm:max-w-xl md:max-w-3xl lg:max-w-3xl xl:max-w-6xl">
+      <!-- <h3 class="text-3xl mb-3 mt-2 font-semibold tracking-normal">
         Szabályok
-      </h3>
-      <h2 class="text-md">
+      </h3> -->
+      <h2 class="p-2 text-justify">
         Minden feladványnál szükségetek lesz egy játékmesterre, a megoldást csak
         ő olvashatja el. A többiek ezután olyan kérdéseket tesznek fel neki,
         amelyekre IGEN-nel vagy NEM-mel tud a játékmester válaszolni. Ha eleinte
