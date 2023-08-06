@@ -1,9 +1,8 @@
 <template>
-  <footer class="relative fixed bottom-0 left-0 z-20 w-full p-4 shadow md:flex md:items-center md:justify-between md:p-6">
-    <span class="text-sm sm:text-center text-black ">© 2023 <a class="">DARQBA
-        by Zoltan
-        Szoleczki</a>. All Rights Reserved.
+  <footer
+    class="container text-center md:text-left px-4 py-5 mx-auto flex flex-col sm:flex-row justify-between gap-2 sm:items-center">
+    <span class="text-sm sm:text-center"
+      >© 2023 <a class="">DARQBA by Zoltan Szoleczki</a>. All Rights Reserved.
     </span>
-
   </footer>
 </template>

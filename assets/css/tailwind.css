@@ -3,7 +3,57 @@
 @tailwind utilities;
 
 @font-face {
-    font-family: 'Tourney';
-    font-display: block;
-    src: url('../fonts/Tourney.ttf');
+  font-family: "Tourney";
+  font-display: block;
+  src: url("../fonts/Tourney.ttf");
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  .darquba {
+    font-weight: 900;
+    background: linear-gradient(
+      to right,
+      #994848 20%,
+      #2e2e2e 30%,
+      #a5a4a4 70%,
+      #e73434 80%
+    );
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 500% auto;
+    animation: textShine 10s ease-in-out infinite alternate;
+  }
+}
+
+@keyframes textShine {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  100% {
+    background-position: 100% 50%;
+  }
+}
+
+.title {
+  display: inline-block;
+  position: relative;
+  font-weight: 900;
+  font-size: 21px;
+  margin-bottom: 10px;
+  max-width: 400px;
+}
+
+.label {
+  content: "";
+  display: block;
+  width: 105%;
+  height: 115%;
+  background: #aa0000;
+  position: absolute;
+  z-index: -1;
+  padding-right: 40px;
+  left: -30px;
+  transform: rotateZ(-1deg);
 }

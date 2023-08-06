@@ -1,5 +1,5 @@
 <template>
-  <div class="details">
+  <div class="p-10">
     <div class="errortext" v-if="error">{{ error }}</div>
     <div v-if="post" class="post">
       <h1>{{ post.title }}</h1>
