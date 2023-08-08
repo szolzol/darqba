@@ -1,7 +1,7 @@
 <template>
   <span>
     <header
-      class="bg-white dark:bg-neutral-900 sticky top-0 z-50 flex space-x-1 p-4 shadow-md">
+      class="bg-white dark:bg-black sticky top-0 z-50 flex space-x-1 p-4 shadow-md">
       <div
         class="container mx-auto xs:max-w-xl sm:max-w-xl md:max-w-3xl lg:max-w-3xl xl:max-w-6xl flex justify-between">
         <NuxtLink to="/" class="darquba text-5xl">DarQba</NuxtLink>

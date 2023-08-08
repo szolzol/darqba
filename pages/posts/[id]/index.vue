@@ -19,7 +19,7 @@
       <Spinner />
     </div> -->
       <NuxtLink class="my-4" to="/posts"
-        ><UButton class="font-extrabold" color="black" variant="solid" size="xl"
+        ><UButton class="font-bold" color="black" variant="solid" size="xl"
           >Megfejtettük!</UButton
         ></NuxtLink
       >
