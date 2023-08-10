@@ -20,7 +20,7 @@
     </div> -->
       <NuxtLink class="my-4" to="/posts"
         ><UButton class="font-extrabold" color="red" variant="solid" size="xl"
-          >Megfejtettük!</UButton
+          >Megfejtettük!!</UButton
         ></NuxtLink
       >
     </div>
