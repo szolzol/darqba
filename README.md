@@ -1,4 +1,4 @@
-DARKOBA Rejtélyes logikai társasjáték
+DARQBA Rejtélyes logikai társasjáték
 
 A Darkoba egy logikai játék, ami a barkóbát vegyíti a krimik izgalmával és misztikumával.
 
