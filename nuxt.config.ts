@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   ssr: false,
   nitro: {
-    preset: "firebase",
+    preset: "service-worker",
   },
   devtools: { enabled: true },
   modules: ["@nuxthq/ui", "nuxt-icon"],
