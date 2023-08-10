@@ -38,10 +38,11 @@ export default defineNuxtConfig({
   // },
   css: ["@/assets/css/tailwind.css"],
   app: {
+    baseURL: '/darqba-vue/', // baseURL: '/<repository>/'
     head: {
       title: "DARQBA",
       titleTemplate: "%s",
-      link: [{ rel: "icon", type: "image/png", href: "/favicon.png" }],
+      link: [{ rel: "icon", type: "image/png", href: "/favicon.png" }]
     },
   },
 });
