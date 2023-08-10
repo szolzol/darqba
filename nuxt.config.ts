@@ -1,9 +1,9 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  ssr: false,
-  nitro: {
-    preset: "service-worker",
-  },
+  // ssr: false,
+  // nitro: {
+  //   preset: "service-worker",
+  // },
   devtools: { enabled: true },
   modules: ["@nuxthq/ui", "nuxt-icon"],
   // colorMode: {
