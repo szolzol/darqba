@@ -5,21 +5,21 @@ export default defineNuxtConfig({
     preset: "firebase",
   },
   devtools: { enabled: true },
-  modules: ["@nuxthq/ui", "nuxt-icon", "nuxt-vuefire"],
+  modules: ["@nuxthq/ui", "nuxt-icon"],
   // colorMode: {
   //   classSuffix: ''
   // },
-  vuefire: {
-    config: {
-      apiKey: "AIzaSyAuBLiMU_gBTIReCTFnYkpOyA0EfjOqOgI",
-      authDomain: "darqba-b5273.firebaseapp.com",
-      projectId: "darqba-b5273",
-      storageBucket: "darqba-b5273.appspot.com",
-      messagingSenderId: "170640110079",
-      appId: "1:170640110079:web:827118ac4c8738d19bb7ca",
-      measurementId: "G-VTNK6KQ23K",
-    },
-  },
+  // vuefire: {
+  //   config: {
+  //     apiKey: "AIzaSyAuBLiMU_gBTIReCTFnYkpOyA0EfjOqOgI",
+  //     authDomain: "darqba-b5273.firebaseapp.com",
+  //     projectId: "darqba-b5273",
+  //     storageBucket: "darqba-b5273.appspot.com",
+  //     messagingSenderId: "170640110079",
+  //     appId: "1:170640110079:web:827118ac4c8738d19bb7ca",
+  //     measurementId: "G-VTNK6KQ23K",
+  //   },
+  // },
   tailwindcss: {
     cssPath: "~/assets/css/tailwind.css",
     configPath: "tailwind.config",

@@ -20,8 +20,12 @@
     </div>
 
     <div>
+      <div class="errortext" v-if="error">{{ error }}</div>
       <div v-if="posts.length">
         <PostList :posts="posts" />
+      </div>
+      <div v-else>
+        <Spinner />
       </div>
     </div>
   </div>
@@ -33,18 +37,16 @@ import getPosts from "@/composables/getPosts";
 
 // component imports
 import PostList from "@/components/PostList.vue";
-// import Spinner from '../components/Spinner.vue'
+import Spinner from "@/components/Spinner.vue";
 
 export default {
   name: "Home",
-  components: { PostList },
+  components: { PostList, Spinner },
   setup() {
     const { posts, error, count, load } = getPosts();
 
     load();
-
     return { posts, error, count };
-    console.log(posts);
   },
 };
 </script>

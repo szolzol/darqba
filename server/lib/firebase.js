@@ -1,6 +1,4 @@
-import { initializeApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
-import * as firebase from "firebase/app";
+import { initializeApp, getApps, getApp } from "firebase/app";
 
 import {
   getFirestore,
@@ -19,15 +17,6 @@ const firebaseConfig = {
   measurementId: "G-9RYV7H2JPG",
 };
 
-let app;
-
-if (!firebase.getApps().length) {
-  app = firebase.initializeApp(firebaseConfig);
-} else {
-  // if already initialized, use that one
-  app = firebase.getApp();
-}
-const analytics = getAnalytics(app);
+const app = !getApps().length ? initializeApp(firebaseConfig) : getApp();
 const db = getFirestore(app);
-
 export { db };
