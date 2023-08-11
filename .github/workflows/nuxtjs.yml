@@ -19,7 +19,7 @@ jobs:
 
       # Pick your own package manager and build script
       - run: pnpm install
-      - run: pnpm nuxt generate
+      - run: pnpm nuxt build
         env:
           NITRO_PRESET: github_pages
 
