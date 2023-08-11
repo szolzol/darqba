@@ -4,6 +4,7 @@
 .cache
 .vscode
 .firebase
+.secrets
 dist
 
 # Node dependencies
