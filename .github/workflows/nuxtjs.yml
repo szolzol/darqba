@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
@@ -19,7 +19,7 @@ jobs:
 
       # Pick your own package manager and build script
       - run: pnpm install
-      - run: pnpm nuxt build
+      - run: pnpm nuxt generate
         env:
           NITRO_PRESET: github_pages
 
