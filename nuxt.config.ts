@@ -38,7 +38,7 @@ export default defineNuxtConfig({
   // },
   css: ["@/assets/css/tailwind.css"],
   app: {
-    // baseURL: '/darqba/', // baseURL: '/<repository>/'
+    baseURL: '/darqba/', // baseURL: '/<repository>/'
     head: {
       title: "DARQBA",
       titleTemplate: "%s",
