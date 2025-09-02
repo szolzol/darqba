@@ -24,10 +24,13 @@ jobs:
         with:
           node-version: 18
 
+      - name: Install pnpm
+        run: npm install -g pnpm
+
       - name: Clean install dependencies
         run: |
           rm -rf package-lock.json node_modules
-          npm install
+          pnpm install
 
       - name: Build project
         run: pnpm generate
