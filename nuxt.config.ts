@@ -29,6 +29,12 @@ export default defineNuxtConfig({
     injectPosition: "first",
     viewer: true,
   },
+   postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
   // googleFonts: {
   //   display: "swap",
   //   families: {
